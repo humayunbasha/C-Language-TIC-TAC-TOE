@@ -48,7 +48,7 @@ int main()
 	while(i==-1);
 	
 	drawBoard();
-	if(i=1)
+	if(i==1)
 	{
 		printf("Player %d is the winner",--player);
 	}
